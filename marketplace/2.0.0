@@ -1,0 +1,6 @@
+Requirement already satisfied: Flask in /Users/admin/miniconda3/envs/simple-web-server-k8s/lib/python3.10/site-packages (1.1.0)
+Requirement already satisfied: Werkzeug>=0.15 in /Users/admin/miniconda3/envs/simple-web-server-k8s/lib/python3.10/site-packages (from Flask) (3.0.4)
+Requirement already satisfied: Jinja2>=2.10.1 in /Users/admin/miniconda3/envs/simple-web-server-k8s/lib/python3.10/site-packages (from Flask) (2.11.0)
+Requirement already satisfied: itsdangerous>=0.24 in /Users/admin/miniconda3/envs/simple-web-server-k8s/lib/python3.10/site-packages (from Flask) (2.0.1)
+Requirement already satisfied: click>=5.1 in /Users/admin/miniconda3/envs/simple-web-server-k8s/lib/python3.10/site-packages (from Flask) (8.1.7)
+Requirement already satisfied: MarkupSafe>=0.23 in /Users/admin/miniconda3/envs/simple-web-server-k8s/lib/python3.10/site-packages (from Jinja2>=2.10.1->Flask) (3.0.1)
